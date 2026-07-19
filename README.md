@@ -1,9 +1,6 @@
 # 📊 Unemployment Analysis
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Library-Pandas-green)
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
-![Project](https://img.shields.io/badge/Project-Data%20Analysis-purple)
+### Python | Pandas | Matplotlib Project
 
 ## 📌 Project Overview
 
@@ -15,20 +12,20 @@ The analysis was performed using Python-based data analysis tools, including **P
 
 ---
 
-## 🎯 Project Objectives
+# 🎯 Project Objectives
 
 The main objectives of this project are:
 
-- Analyze global unemployment trends from **2014 to 2024**.
+- Analyze global unemployment trends from 2014 to 2024.
 - Understand unemployment variations across different countries.
 - Compare unemployment rates between male and female populations.
 - Study unemployment patterns among different age groups.
-- Analyze the impact of the **COVID-19 pandemic** on unemployment.
+- Analyze the impact of the COVID-19 pandemic on unemployment.
 - Generate meaningful insights through data visualization.
 
 ---
 
-## 📂 Dataset Description
+# 📂 Dataset Description
 
 The dataset contains demographic unemployment information including:
 
@@ -42,7 +39,7 @@ The dataset contains demographic unemployment information including:
 
 ---
 
-## 🛠️ Technologies & Tools Used
+# 🛠️ Technologies & Tools Used
 
 | Category | Tools |
 |----------|-------|
@@ -66,26 +63,18 @@ Performed data preprocessing steps:
 - Verified data consistency
 - Prepared data for analysis
 
----
-
 ## 2. Exploratory Data Analysis (EDA)
 
 Performed analysis to identify:
 
-- Year-wise unemployment trends
 - Country-level unemployment differences
 - Gender-based unemployment patterns
 - Age group unemployment variations
+- COVID-19 unemployment impact
 
 ---
 
 # 📊 Data Visualizations
-
-## 📈 Average Unemployment Trend (2014–2024)
-
-![Unemployment Trend](unemployment_trend.png)
-
----
 
 ## 👥 Gender-Based Unemployment Analysis
 
@@ -124,4 +113,25 @@ Based on the analysis:
 
 ---
 
-# 📁 Project Structure
+# 🚀 Project Outcome
+
+This project demonstrates practical skills in:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Python Programming
+- Extracting insights from real-world datasets
+
+---
+
+# 👨‍💻 Author
+
+**AAKASH P**
+
+B.Tech Information Technology Student
+
+**Intern Alpha Internship Project**
+
+GitHub:  
+https://github.com/aakashp2008
