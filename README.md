@@ -1,230 +1,127 @@
-\# 📊 Unemployment Analysis
+# 📊 Unemployment Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Library-Pandas-green)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
+![Project](https://img.shields.io/badge/Project-Data%20Analysis-purple)
 
+## 📌 Project Overview
 
-\## 📌 Project Overview
+**Unemployment Analysis** is a data analytics project that explores global unemployment patterns using demographic and economic data.
 
+The project focuses on analyzing unemployment trends across different years, countries, genders, and age groups to identify significant patterns and insights.
 
+The analysis was performed using Python-based data analysis tools, including **Pandas** for data processing and **Matplotlib** for data visualization.
 
-This project analyzes global unemployment trends using demographic data.
+---
 
-The objective is to identify unemployment patterns based on gender, age groups, countries, and yearly trends.
+## 🎯 Project Objectives
 
+The main objectives of this project are:
 
+- Analyze global unemployment trends from **2014 to 2024**.
+- Understand unemployment variations across different countries.
+- Compare unemployment rates between male and female populations.
+- Study unemployment patterns among different age groups.
+- Analyze the impact of the **COVID-19 pandemic** on unemployment.
+- Generate meaningful insights through data visualization.
 
-The analysis was performed using Python libraries such as Pandas and Matplotlib for data cleaning, visualization, and insights generation.
+---
 
+## 📂 Dataset Description
 
+The dataset contains demographic unemployment information including:
 
-\---
+- Country details
+- Gender categories
+- Age groups
+- Year-wise unemployment rates
+- Population-based unemployment statistics
 
+**Data Period:** 2014 – 2024
 
+---
 
-\## 🎯 Objective
+## 🛠️ Technologies & Tools Used
 
+| Category | Tools |
+|----------|-------|
+| Programming Language | Python |
+| Data Analysis | Pandas, NumPy |
+| Data Visualization | Matplotlib |
+| Development Environment | Jupyter Notebook / Google Colab |
+| Version Control | GitHub |
 
+---
 
-\- Analyze unemployment trends from 2014 to 2024.
+# 🔍 Data Analysis Workflow
 
-\- Study unemployment differences between males and females.
+## 1. Data Cleaning & Preparation
 
-\- Analyze unemployment among different age groups.
+Performed data preprocessing steps:
 
-\- Identify countries with the highest unemployment rates.
+- Checked dataset structure
+- Handled missing values
+- Removed duplicate records
+- Verified data consistency
+- Prepared data for analysis
 
-\- Understand the impact of COVID-19 on unemployment.
+---
 
+## 2. Exploratory Data Analysis (EDA)
 
+Performed analysis to identify:
 
-\---
+- Year-wise unemployment trends
+- Country-level unemployment differences
+- Gender-based unemployment patterns
+- Age group unemployment variations
 
+---
 
+# 📊 Data Visualizations
 
-\## 📂 Dataset
+## 📈 Average Unemployment Trend (2014–2024)
 
+![Unemployment Trend](unemployment_trend.png)
 
+---
 
-\*\*Source:\*\*
+## 👥 Gender-Based Unemployment Analysis
 
-U.S. Bureau of Labor Statistics / Global unemployment demographic dataset
+![Gender Analysis](gender_analysis.png)
 
+---
 
+## 🎯 Age Group Unemployment Analysis
 
-The dataset contains:
+![Age Analysis](age_analysis.png)
 
+---
 
+## 🌍 Top 10 Countries With Highest Unemployment Rate (2024)
 
-\- Country information
+![Top Countries](top10_countries_2024.png)
 
-\- Gender
+---
 
-\- Age groups
+## 🦠 COVID-19 Impact Analysis (2019 vs 2020)
 
-\- Year-wise unemployment rates (2014–2024)
+![COVID Impact](covid_impact.png)
 
+---
 
+# 📌 Key Insights
 
-\---
+Based on the analysis:
 
+- Global unemployment showed a gradual decline before 2020.
+- A major increase in unemployment was observed during the COVID-19 pandemic.
+- Female unemployment rates were higher compared to male unemployment rates.
+- Youth unemployment remained a major concern across several regions.
+- Countries such as Djibouti and South Africa recorded higher unemployment levels in recent years.
+- Economic events significantly influenced unemployment trends worldwide.
 
+---
 
-\## 🛠️ Technologies Used
-
-
-
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Google Colab
-
-\- Jupyter Notebook
-
-
-
-\---
-
-
-
-\## 🔍 Data Analysis Performed
-
-
-
-\### 1. Data Cleaning
-
-\- Checked missing values
-
-\- Removed incomplete records
-
-\- Verified duplicate values
-
-
-
-\### 2. Trend Analysis
-
-Analyzed average unemployment rates from 2014 to 2024.
-
-
-
-\### 3. Gender Analysis
-
-Compared unemployment rates between male and female groups.
-
-
-
-\### 4. Age Group Analysis
-
-Analyzed unemployment among:
-
-\- Youth
-
-\- Adults
-
-\- Children
-
-
-
-\### 5. Country Analysis
-
-Identified countries with the highest unemployment rates in 2024.
-
-
-
-\### 6. COVID-19 Impact Analysis
-
-Compared unemployment changes between 2019 and 2020.
-
-
-
-\---
-
-
-
-\## 📊 Visualizations
-
-
-
-\### Average Unemployment Trend
-
-
-
-!\[Trend](images/unemployment\_trend.png)
-
-
-
-\### Gender Analysis
-
-
-
-!\[Gender](images/gender\_analysis.png)
-
-
-
-\### Age Group Analysis
-
-
-
-!\[Age](images/age\_analysis.png)
-
-
-
-\### Top 10 Countries (2024)
-
-
-
-!\[Countries](images/top10\_countries\_2024.png)
-
-
-
-\### COVID-19 Impact
-
-
-
-!\[COVID](images/covid\_impact.png)
-
-
-
-\---
-
-
-
-\## 📌 Key Insights
-
-
-
-\- Global unemployment decreased gradually from 2014 to 2019.
-
-\- A significant increase occurred in 2020 due to COVID-19.
-
-\- Female unemployment rates were consistently higher than male unemployment rates.
-
-\- Youth unemployment was higher compared to other age groups.
-
-\- Djibouti and South Africa had the highest unemployment rates in 2024.
-
-\- Several countries experienced major unemployment increases during the pandemic.
-
-
-
-\---
-
-
-
-\## 👨‍💻 Author
-
-
-
-\*\*AAKASH P\*\*
-
-
-
-B.Tech Information Technology Student
-
-
-
-Intern Alpha Internship Project
-
-
-
+# 📁 Project Structure
